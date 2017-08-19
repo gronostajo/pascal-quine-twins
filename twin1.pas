@@ -1,0 +1,1 @@
+const c=0;var s:string; begin s:='const c=;var s:string; begin s:='';write(copy(s,1,8),(c+1) mod 2,copy(s,9,25),copy(s,1,8),copy(s,9,25),copy(s,33,1111),copy(s,33,1111)); end.';write(copy(s,1,8),(c+1) mod 2,copy(s,9,25),copy(s,1,8),copy(s,9,25),copy(s,33,1111),copy(s,33,1111)); end.
